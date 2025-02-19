@@ -3,7 +3,7 @@ Here we show an example of how to solve the saddle point method equations in pyt
 
 ##11 
 
-```bash
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import least_squares
