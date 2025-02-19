@@ -1,6 +1,8 @@
 # saddle-point-in-HHG
 Here we show an example of how to solve the saddle point method equations in python in certain condition and the comparison with the semi-classical three steps model.
 
+When you treat the HHG process (light-matter interaction) quantumly instead of semi-classical you will encounter TDSE which is nasty while numerically solving it. This is when saddle point comes in. The general idea of saddle point method is that $a^b$
+
 ##Condition 
 
 ```python
