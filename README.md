@@ -3,7 +3,7 @@ Here we show an example of how to solve the saddle point method equations in pyt
 
 
 ## haha
-12$$$a^b$
+12$$a^b$$
 
 # hahaha
 123
